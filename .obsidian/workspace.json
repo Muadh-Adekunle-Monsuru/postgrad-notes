@@ -4,38 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5c0908076e4364ae",
         "type": "tabs",
         "children": [
           {
-            "id": "0d30991a28fe7385",
+            "id": "46702ef698346994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
+                "file": "SGS501 - Research Methods/documents/1-SGS501-601-INTRO-research-2026-1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "1-SGS501-601-INTRO-research-2026-1"
             }
           },
           {
-            "id": "48b95678f73343db",
+            "id": "51620cfbc8e03d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCIP501 - Cyber Security Basics/CCIP501 - Cyber Security Basics.md",
+                "file": "SGS501 - Research Methods/SGS501 - Research Methods and Scientific Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCIP501 - Cyber Security Basics"
+              "title": "SGS501 - Research Methods and Scientific Ethics"
+            }
+          },
+          {
+            "id": "b1dedf4d9f4e6ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SGS501 - Research Methods/Class 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.7734375
   },
   "right": {
     "id": "3d48dbfb7283463c",
@@ -203,28 +216,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0d30991a28fe7385",
+  "active": "b1dedf4d9f4e6ae7",
   "lastOpenFiles": [
-    "CCIP501 - Cyber Security Basics/CCIP501 - Cyber Security Basics.md",
+    "SGS501 - Research Methods/Class 1.md",
+    "SGS501 - Research Methods/Class 2.md",
+    "SGS501 - Research Methods/SGS501 - Research Methods and Scientific Ethics.md",
     "Home.md",
-    "SGS598 - Seminar/SGS598 - Seminar.md",
-    "SGS598 - Seminar",
-    "SGS501 - Research Methods/SGS501 - Research Methods.md",
+    "SGS501 - Research Methods/documents/1-SGS501-601-INTRO-research-2026-1.pdf",
+    "SGS501 - Research Methods/documents/research-Basics-1-2.pdf",
+    "SGS501 - Research Methods/documents/2-SGS501-601-PURPOSE-HYPOTHESIS.pdf",
+    "SGS501 - Research Methods/documents/5-6-SGS501-601-STATISTICAL-ANALYSIS.pdf",
+    "SGS501 - Research Methods/documents/research_proposal_template_2026.pdf",
+    "SGS501 - Research Methods/documents/Ranjit_Kumar-Research_Methodology_A_Step-by-Step_G.pdf",
+    "SGS501 - Research Methods/documents/lu318727h7yv.tmp",
+    "SGS501 - Research Methods/documents/Lecture presentations-20261006/5-6-SGS501-601-STATISTICAL-ANALYSIS.pdf",
+    "SGS501 - Research Methods/documents/Lecture presentations-20261006/2-SGS501-601-PURPOSE-HYPOTHESIS.pdf",
+    "SGS501 - Research Methods/documents/Lecture presentations-20261006/1-SGS501-601-INTRO-research-2026-1.pdf",
+    "DSE501 - Introduction to Data Science Tools/Class 2.md",
+    "DSE501 - Introduction to Data Science Tools/Class 1.md",
     "DSE501 - Introduction to Data Science Tools/DSE501 - Introduction to Data Science Tools.md",
-    "CCIP504 - Operating Systems & System Programming/CCIP504 - Operating Systems & System Programming.md",
+    "CCIP503 - Computer Networks & Security/Class 2.md",
     "CCIP503 - Computer Networks & Security/CCIP503 - Computer Networks & Security.md",
-    "CCIP503 - Computer Networks & Security/Welcome 1.md",
-    "SGS501 - Research Methods/Welcome 1.md",
+    "CCIP503 - Computer Networks & Security/Class 1 - Computer Network and Internet.md",
     "DSE501 - Introduction to Data Science Tools/Welcome 1.md",
+    "CCIP503 - Computer Networks & Security/images/Pasted image 20261004172652.png",
+    "Pasted image 20261004172509.png",
+    "CCIP504 - Operating Systems & System Programming/CCIP504 - Operating Systems & System Programming.md",
+    "CCIP501 - Cyber Security Basics/CCIP501 - Cyber Security Basics.md",
+    "SGS501 - Research Methods/Welcome 1.md",
+    "CCIP503 - Computer Networks & Security/W01-Computer-Networks-and-the-Internet-Summary.md",
+    "SGS598 - Seminar/SGS598 - Seminar.md",
+    "CCIP503 - Computer Networks & Security/Welcome 1.md",
     "CCIP504 - Operating Systems & System Programming/Welcome 1.md",
-    "CCIP501 - Cyber Security Basics/Welcome.md",
-    "Untitled.base",
-    "Untitled 6",
-    "Untitled 5",
-    "DSE501 - Introduction to Data Science Tools",
-    "SGS501 - Research Methods",
-    "CCIP504 - Operating Systems & System Programming",
-    "CCIP503 - Computer Networks & Security",
-    "CCIP501 - Cyber Security Basics"
+    "CCIP501 - Cyber Security Basics/Welcome.md"
   ]
 }

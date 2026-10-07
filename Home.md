@@ -14,7 +14,7 @@ Here are the master entry notes for all current coursework. Click on any link to
 
 ### 🔬 Research & Data
 - 📊 [[DSE501 - Introduction to Data Science Tools]]
-- 🧪 [[SGS501 - Research Methods]]
+- 🧪 [[SGS501 - Research Methods and Scientific Ethics]]
 - 🗣️ [[SGS598 - Seminar]]
 
 ---
