@@ -5,4 +5,4 @@
 * **Structure & Grading:** The semester spans 14 weeks and assessment relies on two quizzes (30%), three homework assignments (40%), and a final project (30%).
 
 [[SGS501 - Research Methods/Class 1]]
-[[SGS501 - Research Methods and Scientific Ethics]]
+[[SGS501 - Research Methods/Class 2]]

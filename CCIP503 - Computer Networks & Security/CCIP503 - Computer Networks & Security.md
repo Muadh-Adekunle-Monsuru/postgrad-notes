@@ -7,3 +7,5 @@
 
 - [[Class 1 - Computer Network and Internet]]
 - [[CCIP503 - Computer Networks & Security/Class 2]]
+- [[CCIP503 - Computer Networks & Security/Class 3]]
+

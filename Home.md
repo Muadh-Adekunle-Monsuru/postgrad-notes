@@ -17,5 +17,8 @@ Here are the master entry notes for all current coursework. Click on any link to
 - 🧪 [[SGS501 - Research Methods and Scientific Ethics]]
 - 🗣️ [[SGS598 - Seminar]]
 
+### 🎓 Other
+- 🇹🇷 [[Turkish Language]]
+
 ---
 *“Success in applied cybersecurity isn't just about knowing the tools, it's about understanding the architecture.”*

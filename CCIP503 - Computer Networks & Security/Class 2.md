@@ -30,30 +30,101 @@ The Internet protocol stack consists of five distinct layers:
 5. **Physical Layer:** Moves the individual bits within a frame across the physical transmission medium (e.g., twisted-pair copper wire or fiber optics) to the adjacent node.
     
 
-**Encapsulation**
-
-As data moves down a sending host's protocol stack, each layer appends its own header information to the packet received from the layer above, encapsulating it as a payload.
-- The transport layer encapsulates the application **message** with a transport header (creating a **segment**).  
-- The network layer encapsulates the segment with a network header containing source and destination addresses (creating a **datagram**).
-- The link layer encapsulates the datagram with a link header (creating a **frame**).
-- Intermediate network devices only implement lower layers: link-layer switches implement layers 1 and 2, while routers implement layers 1 through 3. Because hosts implement all five layers, the Internet architecture places its primary complexity at the edges of the network.
-
-
-- **Malware:** Malicious, often self-replicating software that infects hosts to delete files or install data-stealing spyware. Compromised devices are frequently grouped into **botnets** (networks of controlled devices) to distribute spam or execute coordinated, large-scale attacks.
-- **Denial-of-Service (DoS) Attacks:** Operations designed to render network infrastructure or servers inoperable for legitimate users. They typically fall into three categories:  
-    - _Vulnerability attacks:_ Sending specifically crafted messages that exploit bugs to crash an application or operating system.
-    - _Bandwidth flooding:_ Overwhelming a target's access link with a deluge of packets. In a **Distributed DoS (DDoS)** attack, the attacker leverages multiple compromised sources (such as a botnet) to collectively exceed the target's transmission capacity, making the attack much harder to detect and block than a single-source flood.
-    - _Connection flooding:_ Exhausting a host's resources by rapidly establishing thousands of bogus, half-open, or fully open TCP connections so it can no longer accept legitimate ones.
-        
-- **Packet Sniffing:** Passively recording copies of packets transmitted over wireless channels or shared wired broadcast environments (like cable or Ethernet LANs). Because sniffers do not inject packets into the network, they are nearly impossible to detect, making cryptography the primary defense for protecting sensitive intercepted data.
-    
-- **Masquerading and IP Spoofing:** Injecting hand-crafted packets into the network with a forged source address to deceive the receiving device (e.g., tricking a router into altering its forwarding table). Defending against this requires strict end-point authentication to verify the true origin of a message.
-    
-
-These vulnerabilities stem fundamentally from the Internet's original architectural design, which assumed a transparent network of mutually trusting users. Because modern users communicate across untrusted networks and third-party infrastructure, implementing defenses against these inherent vulnerabilities is now a central requirement of computer networking.
-
 
 ---
 
-The time required to examine the packet's header and determine where to direct the packet is part of the (nodal) processing delay.
-It can also include other factors, such as the time needed to chieck for bit-level errors in the packet that occurred in transmitting the packet's
+## 1. Delay, Loss, and Throughput
+
+* **Total Nodal Delay:** The total time taken for a packet to travel from source to destination is the sum of processing, queuing, transmission, and propagation delays.
+
+
+* **Processing Delay:** The time required for a router to examine a packet's header, check for bit-level errors, and determine the output link. This typically takes microseconds or less.
+
+
+* **Queuing Delay:** The time a packet waits in a router's buffer for transmission. It depends on the congestion level of the router and the traffic intensity, calculated as **La/R** (where **L** is packet length, **a** is average arrival rate, and **R** is link bandwidth). When traffic intensity approaches 1, average queuing delay becomes large; if it exceeds 1, delay becomes infinite.
+
+
+* **Transmission Delay:** The time required to push all of a packet's bits onto the link, calculated as **L/R**.
+
+
+* **Propagation Delay:** The time it takes for a bit to travel along the physical medium to the next router, calculated as **d/s** (where **d** is distance and **s** is propagation speed).
+
+
+* **Packet Loss:** Routers have finite queue capacities (buffers). If a packet arrives at a completely full buffer, it is dropped (lost).
+
+
+* **Traceroute:** A program used to measure end-to-end delay and packet loss from a source to intermediate routers along the path to a destination.
+
+
+* **Throughput:** The rate at which bits are successfully transferred from sender to receiver. End-to-end throughput is constrained by the **bottleneck link**, which is the link on the path with the lowest transmission capacity.
+
+
+
+## 2. Protocol Layers and Service Models
+
+* **Purpose of Layering:** A layered architecture provides modularity, reducing the complexity of the network. Each layer provides a service to the layer above it and utilizes the services of the layer below it. This allows the implementation of one layer (e.g., physical copper vs. fiber) to change without requiring changes to other layers (e.g., HTTP).
+
+
+* **Internet Protocol Stack:** Consists of 5 layers:
+
+
+* **Application:** Supports network applications (HTTP, SMTP, DNS).
+
+
+* **Transport:** Handles process-to-process data transfer (TCP, UDP).
+
+
+* **Network:** Routes datagrams from source to destination (IP, routing protocols).
+
+
+* **Link:** Transfers data between neighboring elements (Ethernet, WiFi).
+
+
+* **Physical:** Transmits raw bits over the wire.
+
+
+
+
+* **OSI Model:** An alternative 7-layer model that includes Presentation and Session layers between the Application and Transport layers.
+
+
+* **Encapsulation:** As data moves down the stack at the source, each layer encapsulates the data with its own header. Application **messages** become transport **segments**, then network **datagrams**, and finally link **frames**.
+
+
+
+## 3. Networks Under Attack
+
+* **Security Context:** The Internet was initially designed for mutually trusting users, meaning security protocols have largely been a retroactive effort.
+
+
+* **Common Attacks:**
+* **Packet Sniffing:** Attackers read/record packets (like passwords) passing over broadcast media or wireless networks using promiscuous mode.
+
+
+* **IP Spoofing:** Injecting packets into the network with a falsely identified source address.
+
+
+* **Denial of Service (DoS):** Overwhelming a target server or bandwidth with bogus traffic to make resources unavailable to legitimate users. This is often executed using a botnet of compromised "zombie" hosts.
+
+
+
+
+* **Security Goals:** Networks must ensure authentication, confidentiality, integrity, access control, and availability. Defenses include encryption, digital signatures, firewalls, and VPNs.
+
+
+
+## 4. History of Networking and Internet
+
+* **1961–1972:** Early packet-switching principles were developed by Kleinrock and Baran, leading to the first ARPANET node in 1969.
+
+
+* **1972–1980:** Cerf and Kahn developed internetworking architectures emphasizing minimalism and best-effort service. Ethernet was invented at Xerox PARC.
+
+
+* **1980–1990:** TCP/IP was officially deployed in 1983, alongside core protocols like DNS, SMTP, and FTP.
+
+
+* **1990–2000s:** Tim Berners-Lee developed HTML and HTTP, leading to the commercialization of the World Wide Web and the rise of P2P file sharing.
+
+
+* **2005–Present:** Characterized by broadband deployment, ubiquitous high-speed wireless (4G/5G, WiFi), cloud computing, software-defined networking (SDN), and the explosion of smartphones.

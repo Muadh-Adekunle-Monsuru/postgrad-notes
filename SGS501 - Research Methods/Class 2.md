@@ -1,4 +1,17 @@
-## Research Plan
+The research process follows a cyclic structure, moving from defining a question or problem to formulating objectives, planning and designing the research, generating results, and finally interpreting those results to derive conclusions. Identifying a research topic requires exploring existing literature, checking funding proposals, consulting advisors, and actively searching for gaps in current projects or papers.
 
+A complete research plan is built upon several core components:
 
-EU - Horizon 2020 Call
+* **Problem Statement:** A strong problem statement bridges the gap between a broad, multidimensional "general problem" and a specific, highly focused "researchable problem". It must clearly identify what knowledge is needed, who needs it, and the objective reasons justifying the research. It should be logically developed, objective, and feasible within the limits of available time, data, and resources.
+* **Objectives:** Objectives dictate what the study will accomplish and must be clear, complete, and specific. A study typically features one general objective that states the primary purpose, supported by multiple specific targets or sub-objectives. Good objectives also identify relevant variables, target populations, and operational definitions.
+* **Variables:** Variables hold measurement or observation results and are categorized by four scales: Nominal (categories without rank), Ordinal (ranked categories), Interval (measurable differences but no true zero), and Ratio (measurable differences with a defined absolute zero).
+* **Causality in Variables:**
+* *Independent Variable (IV):* The cause or manipulated factor responsible for a change.
+* *Dependent Variable (DV):* The outcome measured after introducing the independent variable.
+* *Moderating / Extraneous Variable:* External factors that are not strictly controlled but alter the strength or direction of the relationship.
+* *Mediating / Intervening Variable:* Internal mechanisms or links required for the independent variable to impact the dependent variable.
+* **Conceptual Models:** A conceptual model applies theory to build logical relationships between the identified variables. It analyzes the research problem to produce testable hypotheses and highlights theoretical gaps if no existing theory applies.
+* **Hypotheses:** Hypotheses are tentative assertions that establish the focus of the study, guide data collection, and enhance objectivity.
+* *Structural Types:* Hypotheses can focus on creating new techniques (constructive existential), achieving automation, optimizing efficiency, or identifying the limits of a method.
+* *Statistical Types:* These include the Null Hypothesis (H0, assuming no difference), the hypothesis of difference (difference exists without a specified magnitude), point-prevalence (exact quantitative speculation), and hypothesis of association (specifying the extent of an effect).
+* **Hypothesis Testing:** Quantitative hypotheses require specific terminology, accessible data, analytical techniques, and a solid conceptual basis for empirical testing. When deciding on a Null Hypothesis (H0), researchers risk a Type-I Error (a false positive where a true H0 is rejected) or a Type-II Error (a false negative where a false H0 is accepted).
