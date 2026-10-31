@@ -8,75 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a10a2a612c8772ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CCIP504 - Operating Systems & System Programming/documents/ch1_slide.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ch1_slide"
-            }
-          },
-          {
-            "id": "179587feb7f51461",
+            "id": "3d1ecf93b295cb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCIP503 - Computer Networks & Security/Class 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 3"
-            }
-          },
-          {
-            "id": "a79279f09fb36131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turkish Language Course/Turkish Language.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Turkish Language"
-            }
-          },
-          {
-            "id": "1cc7b649ab43587e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SGS501 - Research Methods/Class 3.md",
+                "file": "SGS501 - Research Methods/Class 4.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 3"
+              "title": "Class 4"
             }
           },
           {
-            "id": "7956219b2edf8fe1",
+            "id": "6162903f1420634a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCIP504 - Operating Systems & System Programming/OS_Chapter_1_Study_Notes.md",
+                "file": "SGS501 - Research Methods/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS_Chapter_1_Study_Notes"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.87109375,
-    "collapsed": true
+    "width": 331.87109375
   },
   "right": {
     "id": "3d48dbfb7283463c",
@@ -245,28 +203,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1cc7b649ab43587e",
+  "active": "3d1ecf93b295cb8f",
   "lastOpenFiles": [
+    "SGS501 - Research Methods/Untitled.md",
+    "SGS501 - Research Methods/Class 4.md",
     "SGS501 - Research Methods/SGS501 - Research Methods and Scientific Ethics.md",
-    "Home.md",
-    "Turkish Language Course/Turkish Language.md",
-    "SGS598 - Seminar/SGS598 - Seminar.md",
-    "SGS501 - Research Methods/documents/3-SGS501-601-LITERATURE-REVIEW.pdf",
-    "SGS501 - Research Methods/documents/Unconfirmed 107056.crdownload",
-    "SGS501 - Research Methods/Class 2.md",
-    "SGS501 - Research Methods/documents/research-Basics-1-2.pdf",
-    "SGS501 - Research Methods/documents/research_proposal_template_2026.pdf",
+    "CCIP503 - Computer Networks & Security/Class 4.md",
+    "CCIP503 - Computer Networks & Security/Untitled.md",
     "SGS501 - Research Methods/documents/5-6-SGS501-601-STATISTICAL-ANALYSIS.pdf",
-    "SGS501 - Research Methods/Class 3.md",
-    "SGS501 - Research Methods/Class 1.md",
-    "CCIP503 - Computer Networks & Security/Class 3.md",
-    "CCIP503 - Computer Networks & Security/Essential calculation formulas.md",
-    "CCIP503 - Computer Networks & Security/documents/W03-Application Layer.pdf",
-    "CCIP503 - Computer Networks & Security/documents/W02-Computer Networks and the Internet.pdf",
-    "CCIP503 - Computer Networks & Security/documents/W01-Computer Networks and the Internet.pdf",
-    "Turkish Language Course",
+    "Home.md",
+    "CCIP503 - Computer Networks & Security/Claas 4 Extras.md",
+    "Turkish Language Course/Turkish Language.md",
     "CCIP503 - Computer Networks & Security/CCIP503 - Computer Networks & Security.md",
-    "CCIP503 - Computer Networks & Security/Unconfirmed 660934.crdownload",
+    "CCIP503 - Computer Networks & Security/Essential calculation formulas.md",
+    "CCIP503 - Computer Networks & Security/documents/W04-Application Layer.pdf",
+    "CCIP503 - Computer Networks & Security/documents/Unconfirmed 852842.crdownload",
+    "CCIP503 - Computer Networks & Security/Class 3.md",
+    "CCIP503 - Computer Networks & Security/Untitled",
+    "CCIP501 - Cyber Security Basics/documents/Module 04.pdf",
+    "CCIP501 - Cyber Security Basics/Cybersecurity Course Big-Picture Study Notes (Modules 1–3).md",
+    "CCIP501 - Cyber Security Basics/documents/Michael E. Whitman, Herbert J. Mattord - Principles of Information Security-Cengage (2022).pdf",
+    "CCIP501 - Cyber Security Basics/documents/Module 1 Review Questions.pdf",
+    "CCIP501 - Cyber Security Basics/documents/Unconfirmed 677238.crdownload",
+    "CCIP501 - Cyber Security Basics/Class 1.md",
+    "CCIP501 - Cyber Security Basics/documents/Unconfirmed 248507.crdownload",
+    "CCIP501 - Cyber Security Basics/CCIP501 - Cyber Security Basics.md",
+    "CCIP501 - Cyber Security Basics/Unconfirmed 175536.crdownload",
+    "SGS501 - Research Methods/Class 3.md",
+    "SGS598 - Seminar/SGS598 - Seminar.md",
+    "SGS501 - Research Methods/Class 2.md",
+    "SGS501 - Research Methods/Class 1.md",
     "DSE501 - Introduction to Data Science Tools/Class 2.md",
     "DSE501 - Introduction to Data Science Tools/Class 1.md",
     "DSE501 - Introduction to Data Science Tools/Arrays.md",
@@ -275,16 +241,8 @@
     "DSE501 - Introduction to Data Science Tools/Files.md",
     "DSE501 - Introduction to Data Science Tools/DSE501 - Introduction to Data Science Tools.md",
     "CCIP504 - Operating Systems & System Programming/OS_Chapter_1_Study_Notes.md",
-    "CCIP504 - Operating Systems & System Programming/Class 1.md",
-    "CCIP504 - Operating Systems & System Programming/CCIP504 - Operating Systems & System Programming.md",
     "CCIP504 - Operating Systems & System Programming/images/Pasted image 20261009110847.png",
-    "CCIP504 - Operating Systems & System Programming/operating_system_concepts_chapter_1_notes.md",
-    "CCIP503 - Computer Networks & Security/Class 2.md",
-    "CCIP503 - Computer Networks & Security/Class 1 - Computer Network and Internet.md",
-    "DSE501 - Introduction to Data Science Tools/Welcome 1.md",
     "CCIP503 - Computer Networks & Security/images/Pasted image 20261004172652.png",
-    "Pasted image 20261004172509.png",
-    "CCIP501 - Cyber Security Basics/CCIP501 - Cyber Security Basics.md",
-    "SGS501 - Research Methods/Welcome 1.md"
+    "Pasted image 20261004172509.png"
   ]
 }

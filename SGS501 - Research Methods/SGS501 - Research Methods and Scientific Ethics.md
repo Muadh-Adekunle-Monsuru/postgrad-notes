@@ -6,3 +6,5 @@
 
 [[SGS501 - Research Methods/Class 1]]
 [[SGS501 - Research Methods/Class 2]]
+[[SGS501 - Research Methods/Class 3]]
+[[SGS501 - Research Methods/Class 4]]
