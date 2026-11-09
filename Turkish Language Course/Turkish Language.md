@@ -239,6 +239,126 @@ Depending on the last vowel of a word, the question particle changes to match:
 * **Orası deniz.** — That place (further away) is the sea.
 * **Şurası mağaza mı?** *(Düzeltilmiş imla)* — Is that place a store/shop?
 
---
-Write 10 questions yes no questions\
-write introduction about yourself
+---
+Notlarınızın düzgün biçimlendirilmiş, Türkçe karakterlerle yazılmış ve açıklamalarla zenginleştirilmiş hali aşağıdadır:
+
+  
+
+### 1. Olumsuz Cümleler (Negation with "Değil")
+
+_Bir şeyin bir yerde olmadığını söylerken **değil** kelimesi kullanılır._
+
+  
+
+- **Kedi evde.** $\rightarrow$ **Kedi evde değil.** _(The cat is at home. $\rightarrow$ The cat is not at home.)_
+    
+      
+    
+- **Öğrenciler okulda.** $\rightarrow$ **Öğrenciler okulda değil.** _(The students are at school. $\rightarrow$ The students are not at school.)_
+    
+      
+    
+
+### 2. Yer Sorma ve Söyleme (Where is...?)
+
+- **Taksim nerede?** $\rightarrow$ **Taksim, İstanbul'da.** _(Where is Taksim? $\rightarrow$ Taksim is in Istanbul.)_
+    
+      
+    
+- **Paris nerede?** $\rightarrow$ **Paris, Fransa'da.** _(Where is Paris? $\rightarrow$ Paris is in France.)_
+    
+      
+    
+
+### 3. Bulunma Durumu ve Sessiz Uyumu (Locative Case & Consonant Harmony)
+
+_Sözcük **f, s, t, k, ç, ş, h, p** (fıstıkçı şahap) sert ünsüzlerinden biriyle bitiyorsa, ek **-ta / -te** şeklinde sertleşir._
+
+  
+
+- **Rüya sınıf-ta.** $\rightarrow$ **Rüya sınıfta.** _(Rüya is in the classroom.)_
+    
+      
+    
+- **Rüya mutfak-ta.** $\rightarrow$ **Rüya mutfakta.** _(Rüya is in the kitchen.)_
+    
+      
+    
+- **Kitap çantada.** _(The book is in the bag.)_
+    
+      
+    
+
+### 4. Soru Zamirleri ve Şahıs Ekleri (Kimde? / Whose/Who has?)
+
+- **Kalem kimde?** $\rightarrow$ **Kalem Rüya'da.** _(Who has the pen? $\rightarrow$ Rüya has the pen.)_
+    
+      
+    
+- **Kalem bende.** _(I have the pen.)_
+    
+      
+    
+- **Kalem sende.** _(You have the pen.)_
+    
+      
+    
+- **Onda** _(He/She has it)_
+    
+      
+    
+- **Bizde** _(We have it)_
+    
+      
+    
+- **Sizde** _(You have it)_
+    
+      
+    
+- **Onlarda** _(They have it)_ _(Düzeltilmiş imla)_
+    
+      
+    
+
+### 5. Sınıf İçi Soru ve Cevaplar (Classroom Q&A)
+
+- **Sınıfta ne var?** _(What is in the classroom?)_
+    
+      
+    - **Sınıfta masalar, sandalyeler, bilgisayarlar, tahta, çöp kutusu, lambalar, projektör var.** _(There are desks, chairs, computers, a board, a trash can, lamps, and a projector in the classroom.)_
+        
+          
+        
+- **Sınıfta kedi var mı?** _(Is there a cat in the classroom?)_
+    
+      
+    - **Hayır, sınıfta kedi yok.** _(No, there is no cat in the classroom.)_
+        
+          
+        
+- **Sınıfta kaç öğrenci var?** _(How many students are there in the classroom?)_
+    
+      
+    - **Sınıfta 26 öğrenci var.** _(There are 26 students in the classroom.)_
+        
+          
+        
+- **Sınıfta kim var?** _(Who is in the classroom?)_
+    
+      
+    - **Sınıfta öğrenciler ve öğretmen var.** _(There are students and a teacher in the classroom.)_
+        
+          
+        
+
+### 6. Temel Mekân Kelimeleri (Basic Location Vocabulary)
+
+- **Alt kat:** Downstairs / Ground floor
+    
+      
+    
+- **Üst kat:** Upstairs / Upper floor
+    
+      
+    
+- **Mutfak:** Kitchen

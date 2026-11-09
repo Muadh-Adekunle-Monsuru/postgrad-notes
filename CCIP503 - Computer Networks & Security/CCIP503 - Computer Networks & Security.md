@@ -8,4 +8,5 @@
 - [[Class 1 - Computer Network and Internet]]
 - [[CCIP503 - Computer Networks & Security/Class 2]]
 - [[CCIP503 - Computer Networks & Security/Class 3]]
-- [[CCIP503 - Computer Networks & Security/Class 4]]
+- [[CCIP503 - Computer Networks & Security/Class 4]] || [[Claas 4 Extras]]
+- [[CCIP503 - Computer Networks & Security/Class 5]]

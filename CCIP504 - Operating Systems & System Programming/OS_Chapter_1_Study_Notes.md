@@ -264,7 +264,7 @@
 **A.** For memory: `free -h` (and tools such as `vmstat`). For filesystem capacity: `df -h`. For directory sizes: `du -sh <path>`.
 
 
-## 5. Processors and computer architectures
+## 5. ==Processors and computer architectures==
 
 **Q. What is a multiprocessor system?**
 

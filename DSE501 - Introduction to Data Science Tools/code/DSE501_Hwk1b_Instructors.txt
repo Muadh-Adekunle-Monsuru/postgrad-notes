@@ -1,0 +1,7 @@
+Hasan, Dag, 61, M, Cibali, 1, Istanbul, Turkey.
+Reiner, Creuztburg, 61, M, Ernst-Reuter Platz, 10, Berlin, Germany.
+Jane, Schwarz, 34, F, Jung Street, 23, Chicago, USA. 
+…
+… (more lines, total will be <= 50 lines)
+..
+Klaus, Tomy, 21, M, Blume Street, 98, Potsdam, Germany.

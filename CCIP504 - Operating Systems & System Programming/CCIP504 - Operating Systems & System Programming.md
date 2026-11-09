@@ -3,3 +3,8 @@ Beyazit Bestani Yuksil
 Slides: https://os-book.com/OS9/slide-dir/index.html
 
 [[CCIP504 - Operating Systems & System Programming/Class 1]]
+[[Operating System Class 2]]
+[[CCIP504 - Operating Systems & System Programming/Class 3]]
+
+Process is the running isntance of a program
+Define thread
