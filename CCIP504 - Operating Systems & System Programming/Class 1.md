@@ -1,8 +1,4 @@
-Starvation: Unable to reach computer resources
-Program -> functions
-Process -> Threads
-Busy waiting: Busy waiting (also known as spinning) is a synchronization technique where a process or thread repeatedly checks a condition to determine if it can proceed. Instead of yielding the processor and entering a sleep or blocked state, the process remains active, continuously executing a loop until a specific flag, lock, or hardware status changes.
-System call- request to the operating system to allow user to wait for I/O completion
+
 # Chapter 1: Introduction to Operating Systems
 
 ## 1. What is an Operating System?

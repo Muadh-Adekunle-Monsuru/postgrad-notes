@@ -1,0 +1,50 @@
+Hasan, Dag, 61, M, Cibali, 1, Istanbul, Turkey.
+Reiner, Creuztburg, 61, M, Ernst-Reuter Platz, 10, Berlin, Germany.
+Jane, Schwarz, 34, F, Jung Street, 23, Chicago, USA. 
+Maria, Rossi, 28, F, Via Roma, 15, Rome, Italy.
+John, Doe, 45, M, Maple Avenue, 42, Toronto, Canada.
+Yuki, Tanaka, 31, F, Shibuya, 5, Tokyo, Japan.
+Ahmed, Mansour, 52, M, Zamalek, 8, Cairo, Egypt.
+Clara, Dubois, 26, F, Rue de Rivoli, 101, Paris, France.
+Diego, Martinez, 39, M, Gran Via, 44, Madrid, Spain.
+Sarah, O'Connor, 41, F, Grafton Street, 12, Dublin, Ireland.
+Chen, Wei, 29, M, Nanjing Road, 88, Shanghai, China.
+Elena, Sokolov, 35, F, Nevsky Prospect, 20, St. Petersburg, Russia.
+Liam, Smith, 22, M, Oxford Street, 77, London, UK.
+Aisha, Khan, 27, F, Clifton, 14, Karachi, Pakistan.
+Pedro, Silva, 48, M, Avenida Paulista, 500, Sao Paulo, Brazil.
+Emma, Johnson, 55, F, Collins Street, 30, Melbourne, Australia.
+Omar, Al-Fayed, 33, M, Downtown, 2, Dubai, UAE.
+Sofia, Gonzalez, 19, F, Reforma, 110, Mexico City, Mexico.
+Lucas, Müller, 40, M, Maximilianstrasse, 18, Munich, Germany.
+Chloe, Tremblay, 32, F, Saint-Catherine, 90, Montreal, Canada.
+Arata, Ito, 47, M, Minato, 3, Tokyo, Japan.
+Isabella, Costa, 24, F, Copacabana, 210, Rio de Janeiro, Brazil.
+William, Brown, 60, M, Queen Street, 45, Auckland, New Zealand.
+Mia, Nielsen, 29, F, Nyhavn, 11, Copenhagen, Denmark.
+Johan, Berg, 38, M, Karl Johan, 7, Oslo, Norway.
+Priya, Patel, 36, F, MG Road, 25, Mumbai, India.
+David, Kim, 42, M, Gangnam, 8, Seoul, South Korea.
+Anna, Kowalski, 30, F, Nowy Swiat, 19, Warsaw, Poland.
+Luis, Fernandez, 51, M, Florida Street, 66, Buenos Aires, Argentina.
+Kaan, Yilmaz, 25, M, Kadikoy, 14, Istanbul, Turkey.
+Sophia, Ali, 28, F, Maadi, 9, Cairo, Egypt.
+James, Wilson, 37, M, Princes Street, 52, Edinburgh, UK.
+Kemi, Adebayo, 31, F, Victoria Island, 12, Lagos, Nigeria.
+Carlos, Ruiz, 44, M, El Poblado, 34, Medellin, Colombia.
+Eva, Novak, 27, F, Wenceslas Square, 3, Prague, Czech Republic.
+Ali, Veli, 50, M, Besiktas, 7, Istanbul, Turkey.
+Rachel, Green, 32, F, Bedford Street, 90, New York, USA.
+Mateo, Romano, 23, M, Via Toledo, 41, Naples, Italy.
+Fatima, Diallo, 49, F, Almadies, 5, Dakar, Senegal.
+Klaus, Tomy, 21, M, Blume Street, 98, Potsdam, Germany.
+Amina, Yilmaz, 28, F, Istiklal Avenue, 45, Istanbul, Turkey.
+Lars, Svensson, 43, M, Drottninggatan, 12, Stockholm, Sweden.
+Fatima, Al-Sayed, 34, F, Hamra Street, 8, Beirut, Lebanon.
+Kenji, Watanabe, 55, M, Dotonbori, 22, Osaka, Japan.
+Beatriz, Rojas, 29, F, Providencia, 77, Santiago, Chile.
+Samuel, Ojo, 38, M, Allen Avenue, 15, Lagos, Nigeria.
+Elena, Popa, 41, F, Calea Victoriei, 102, Bucharest, Romania.
+Marco, Bianchi, 26, M, Via Veneto, 5, Rome, Italy.
+Mei, Lin, 31, F, Orchard Road, 88, Singapore, Singapore.
+Thomas, Müller, 49, M, Reeperbahn, 11, Hamburg, Germany.

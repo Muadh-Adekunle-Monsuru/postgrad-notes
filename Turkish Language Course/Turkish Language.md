@@ -354,11 +354,101 @@ _Sözcük **f, s, t, k, ç, ş, h, p** (fıstıkçı şahap) sert ünsüzlerinde
 ### 6. Temel Mekân Kelimeleri (Basic Location Vocabulary)
 
 - **Alt kat:** Downstairs / Ground floor
-    
-      
-    
 - **Üst kat:** Upstairs / Upper floor
-    
-      
-    
 - **Mutfak:** Kitchen
+- Sokak
+
+
+---
+
+### 1. Evim (My Home)
+
+* **Benim evimde 1 salon (living room), 5 oda (room), 1 banyo (bath), 3 tuvalet, 1 mutfak, 1 balkon var.**
+*(In my house, there is 1 living room, 5 rooms, 1 bathroom, 3 toilets, 1 kitchen, and 1 balcony.)*
+
+---
+
+### 2. Ev Eşyaları ve Malzemeler (Household Items & Supplies)
+
+* **Sehpa:** Coffee table
+* **Yatak:** Bed
+* **Sabun:** Soap
+* **Sünger:** Sponge *(Corrected spelling)*
+* **Havlu:** Towel
+* **Şampuan:** Shampoo
+
+#### Elektronikler (Electronics)
+
+* **Televizyon:** Television
+* **Buzdolabı:** Refrigerator
+* **Fırın:** Oven / Bakery
+* **Ocak:** Stove
+* **Bulaşık makinesi:** Dishwasher
+* **Çamaşır makinesi:** Washing machine
+* **Fön makinesi:** Hairdryer
+
+---
+
+### 3. Ödev / Ev Çalışması (Homework: What is in your home?)
+
+* **Salonda** koltuk, televizyon ve sehpa **var.** *(In the living room, there is an armchair, a television, and a coffee table.)*
+* **Mutfakta** buzdolabı, fırın ve ocak **var.** *(In the kitchen, there is a refrigerator, an oven, and a stove.)*
+* **Banyoda** duş, sabun ve havlu **var.** *(In the bathroom, there is a shower, soap, and a towel.)*
+* **Odada** yatak ve dolap **var.** *(In the room, there is a bed and a wardrobe.)*
+
+---
+
+### 4. Şahıs Ekleri ve Fiil Çekimleri (Personal Suffixes & Verb Conjugations)
+
+#### **Ben (I)**
+
+* Vowel harmony rule for "I am": `-im / -im / -um / -üm`
+* **Ben doktorum.** *(I am a doctor.)*
+* **Ben öğretmenim.** *(I am a teacher.)*
+* **Ben öğrenciyim.** *(I am a student.)*
+* **Ben basketbolcuyum.** *(I am a basketball player.)*
+* **Ben okuldayım.** *(I am at school.)*
+* **Ben doktor değilim.** *(I am not a doctor.)*
+* **Ben öğrenci değilim.** *(I am not a student.)*
+* **Ben şoförüm.** / **Ben şoför değilim.** *(I am a driver / I am not a driver.)*
+* **Ben şoför muyum?** *(Am I a driver?)*
+* **Ben şoför değil miyim?** *(Am I not a driver?)*
+
+#### **Sen (You - Singular/Informal)**
+
+* **Sen doktorsun.** *(You are a doctor.)* — **Sen doktor değilsin.** — **Sen doktor musun?** — **Sen doktor değil misin?**
+* **Sen öğrencisin.** — **Sen öğrenci değilsin.** — **Sen öğrenci misin?** — **Sen öğrenci değil misin?**
+* **Sen okuldasın.** — **Sen okulda değilsin.**
+* **Sen şoförsün.** — **Sen şoför değilsin.** — **Sen şoför müsün?** — **Sen şoför değil misin?**
+* **Neredesin?** — **Sınıftayım.** *(Where are you? — I am in the classroom.)*
+
+#### **O (He / She / It)**
+
+* **O doktor.** — **O doktor değil.** — **O doktor mu?**
+* **O öğrenci.** — **O öğrenci değil.** — **O öğrenci mi?**
+* **O okulda.** — **O okulda değil.**
+* **O şoför.** — **O şoför değil.** — **O şoför mü?**
+
+#### **Biz (We)**
+
+* Vowel harmony rule for "We are": `-iz / -iz / -uz / -üz`
+* **Biz doktoruz.** *(We are doctors.)*
+* **Biz öğrenciyiz.** *(We are students.)*
+* **Biz okuldayız.** *(We are at school.)*
+* **Biz şoförüz.** *(We are drivers.)*
+* **Negatif:** Biz doktor değiliz / Biz öğrenci değiliz / Biz okulda değiliz.
+* **Soru:** Biz doktor muyuz? / Biz öğrenci miyiz? / Biz şoför muyuz?
+* **Negatif Soru:** Biz doktor değil miyiz? / Biz öğrenci değil miyiz? / Biz şoför değil miyiz?
+
+#### **Siz (You - Plural / Formal)**
+
+* Vowel harmony rule for "You are": `-siniz / -siniz / -sunuz / -sünüz`
+* **Siz doktorsunuz.** *(You are a doctor/doctors.)*
+* **Siz öğrencisiniz.** *(You are students.)*
+* **Siz okuldasınız.** *(You are at school.)*
+
+#### **Useful Expressions (Sık Kullanılan Kalıplar)**
+
+* **Nasılsınız?** — How are you? (Formal/Plural)
+* **Neredesiniz?** — Where are you? (Formal/Plural)
+* **Nerelisiniz?** — Where are you from? (Formal/Plural)

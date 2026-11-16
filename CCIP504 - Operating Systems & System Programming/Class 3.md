@@ -5,10 +5,7 @@ page fault:
 time slice
 premption
 thread in the same memory can share memory, but each thread needs its own cpu concept. 
-Bookeeping: record keeping
 difference between dispatch and scheduling
-cpu burst
-IO Bound process could be a reason of 
 Banker algorithm
 ## 1. Process Concept
 
