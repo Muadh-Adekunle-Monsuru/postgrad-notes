@@ -1,0 +1,11 @@
+USER       PID  %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1   0.0  0.2 169380 13456 ?        Ss   08:00   0:02 /sbin/init
+root       412   0.1  0.5  82340 32180 ?        S<s  08:01   0:05 /lib/systemd/systemd-journald
+bind       615   0.0  1.1 198400 72100 ?        Ssl  08:01   0:01 /usr/sbin/named -u bind
+postgres   840   0.3  4.8 542000 314500 ?       S    08:02   0:45 postgres: checkpointer
+postgres   842   0.5  8.2 568000 538200 ?       Ss   08:02   1:12 postgres: writer
+www-data  1201   1.2  2.4 245100 158400 ?       S    08:15   2:10 nginx: worker process
+www-data  1202   1.1  2.3 244900 152100 ?       S    08:15   2:05 nginx: worker process
+redis     1450   0.2  1.8 112000 119800 ?       Ssl  08:20   0:30 /usr/bin/redis-server 127.0.0.1:6379
+root      2100   0.0  0.1  14800  4200 pts/0    Ss   09:00   0:00 -bash
+admin     3050   2.4  3.6 412000 238000 pts/1    R+   10:14   0:18 python3 worker.py

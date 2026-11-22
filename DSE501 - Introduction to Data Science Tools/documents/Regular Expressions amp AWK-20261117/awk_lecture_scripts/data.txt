@@ -1,0 +1,11 @@
+# ID   Name          Score   Department
+101    Alice_Smith    88.5   Engineering
+102    Bob_Jones     105.0   QA
+103    Charlie_Day   -12.0   Operations
+104    Diana_Prince   94.0   Engineering
+105    Evan_Wright    72.5   Security
+106    Fiona_Gall    120.0   Operations
+107    George_Clark   -5.0   QA
+108    Hannah_Abbot   63.0   Security
+109    Ian_Malcolm    99.5   Engineering
+110    Julia_Roberts  45.0   Operations

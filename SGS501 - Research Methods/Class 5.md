@@ -836,42 +836,52 @@ A significant ANOVA result indicates evidence that not all means are equal; it d
 
 ## 23. How to identify the correct statistical method
 
-A frequent examination challenge is determining which formula to use.
+```
+What type of data or outcome are you analyzing?
+                                   │
+         ┌─────────────────────────┴─────────────────────────┐
+         ▼                                                   ▼
+ ┌───────────────┐                                   ┌───────────────┐
+ │ Quantitative  │                                   │ Categorical   │
+ └───────┬───────┘                                   └───────┬───────┘
+         │                                                   │
+         │                                                   ▼
+         │                                      Chi-square Test of Independence
+         │
+         ├──► Comparing Means / Estimating Parameter?
+         │         │
+         │         ├──► 1 Population Mean
+         │         │         │
+         │         │         ├──► σ Known ──────────────► Z-test / Z-CI
+         │         │         │
+         │         │         └──► σ Unknown ────────────► One-sample t-test / t-CI
+         │         │
+         │         └──► 2 Population Means
+         │                   │
+         │                   ├──► Paired / Matched ─────► Paired t-test / CI
+         │                   │
+         │                   └──► Independent Samples
+         │                             │
+         │                             ├──► Assumed Equal Variances ──► Pooled t-test
+         │                             │
+         │                             └──► Unequal Variances ───────► Unpooled t-test
+         │                                                             (Welch's t-test)
+         ├──► Comparing 3+ Population Means ─────────────► ANOVA
+         │
+         ├──► Comparing Variances (2 Populations) ───────► F-test
+         │
+         └──► Relationships & Predictions (2 Quantitative Variables)
+                   │
+                   ├──► Strength/Direction of Linear Relationship ──► Pearson Correlation (r)
+                   │
+                   └──► Predict Response Variable (y) from (x) ─────► Simple Linear Regression
+```
 
-Interactive statistical test selector
+Quick Reference GuideZ-test / Z-CI: Used for a single population mean when the population standard deviation ($\sigma$) is known.One-sample t-test / t-CI: Used for a single population mean when $\sigma$ is unknown.Paired t-test: Used when observations in two samples are naturally matched (e.g., before/after measurements on the same subject).Pooled t-test: Used for two independent sample means when equal population variances can be assumed.Unpooled (Welch's) t-test: Used for two independent sample means when population variances cannot be assumed equal.ANOVA: Used to compare population means across more than two groups.F-test: Used to compare the variability or variances of two independent populations.Chi-square Test of Independence: Used to assess association between categorical variables.Pearson Correlation ($r$): Measures the linear strength and direction between two quantitative variables.Linear Regression ($\hat{y} = a + bx$): Models or predicts one quantitative variable from another.
 
-What are you analyzing?
-
-One quantitative population mean
-
-Two quantitative population means
-
-Two population variances
-
-Categorical outcome / proportions
-
-Relationship between two quantitative variables
-
-What is the objective?
-
-Estimate using a confidence interval
-
-Test a hypothesis
-
-Is the population standard deviation known?
-
-Known
-
-Unknown
-
-RECOMMENDED METHOD
-
-One-sample t-confidence interval
-
-Check the sampling, distribution and other assumptions before applying the method.
-
+![[Pasted image 20261118162922.png]]
 ## 24. Exam-style practice questions with answers
-
+	
 These additional questions are based on concepts covered in the lecture. They are not necessarily questions appearing verbatim in the original slides.
 
 Descriptive statistics

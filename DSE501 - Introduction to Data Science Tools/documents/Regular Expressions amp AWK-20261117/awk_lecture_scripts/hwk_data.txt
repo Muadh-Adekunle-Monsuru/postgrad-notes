@@ -1,0 +1,41 @@
+Prof. Dr., Hasan, Dag, 61, M, Cibali, 1, Istanbul, Turkey.
+Prof. Dr., Reiner, Creuztburg, 61, M, Ernst-Reuter Platz, 10, Berlin, Germany.
+Assoc. Prof. Dr., Jane, Schwarz, 34, F, Jung Street, 23, Chicago, USA.
+Assoc. Prof. Dr., Maria, Rossi, 28, F, Via Roma, 15, Rome, Italy.
+Prof. Dr., John, Doe, 45, M, Maple Avenue, 42, Toronto, Canada.
+Assist. Prof. Dr., Yuki, Tanaka, 31, F, Shibuya, 5, Tokyo, Japan.
+Prof. Dr., Ahmed, Mansour, 52, M, Zamalek, 8, Cairo, Egypt.
+Lecturer, Clara, Dubois, 26, F, Rue de Rivoli, 101, Paris, France.
+Assoc. Prof. Dr., Diego, Martinez, 39, M, Gran Via, 44, Madrid, Spain.
+Prof. Dr., Sarah, O'Connor, 41, F, Grafton Street, 12, Dublin, Ireland.
+Assist. Prof. Dr., Chen, Wei, 29, M, Nanjing Road, 88, Shanghai, China.
+Assoc. Prof. Dr., Elena, Sokolov, 35, F, Nevsky Prospect, 20, St. Petersburg, Russia.
+Research Assist., Liam, Smith, 22, M, Oxford Street, 77, London, UK.
+Lecturer, Aisha, Khan, 27, F, Clifton, 14, Karachi, Pakistan.
+Prof. Dr., Pedro, Silva, 48, M, Avenida Paulista, 500, Sao Paulo, Brazil.
+Prof. Dr., Emma, Johnson, 55, F, Collins Street, 30, Melbourne, Australia.
+Assist. Prof. Dr., Omar, Al-Fayed, 33, M, Downtown, 2, Dubai, UAE.
+Research Assist., Sofia, Gonzalez, 19, F, Reforma, 110, Mexico City, Mexico.
+Assoc. Prof. Dr., Lucas, Müller, 40, M, Maximilianstrasse, 18, Munich, Germany.
+Assist. Prof. Dr., Chloe, Tremblay, 32, F, Saint-Catherine, 90, Montreal, Canada.
+Prof. Dr., Arata, Ito, 47, M, Minato, 3, Tokyo, Japan.
+Research Assist., Isabella, Costa, 24, F, Copacabana, 210, Rio de Janeiro, Brazil.
+Prof. Dr., William, Brown, 60, M, Queen Street, 45, Auckland, New Zealand.
+Assist. Prof. Dr., Mia, Nielsen, 29, F, Nyhavn, 11, Copenhagen, Denmark.
+Assoc. Prof. Dr., Johan, Berg, 38, M, Karl Johan, 7, Oslo, Norway.
+Assoc. Prof. Dr., Priya, Patel, 36, F, MG Road, 25, Mumbai, India.
+Prof. Dr., David, Kim, 42, M, Gangnam, 8, Seoul, South Korea.
+Assist. Prof. Dr., Anna, Kowalski, 30, F, Nowy Swiat, 19, Warsaw, Poland.
+Prof. Dr., Luis, Fernandez, 51, M, Florida Street, 66, Buenos Aires, Argentina.
+Lecturer, Kaan, Yilmaz, 25, M, Kadikoy, 14, Istanbul, Turkey.
+Assist. Prof. Dr., Sophia, Ali, 28, F, Maadi, 9, Cairo, Egypt.
+Assoc. Prof. Dr., James, Wilson, 37, M, Princes Street, 52, Edinburgh, UK.
+Assist. Prof. Dr., Kemi, Adebayo, 31, F, Victoria Island, 12, Lagos, Nigeria.
+Prof. Dr., Carlos, Ruiz, 44, M, El Poblado, 34, Medellin, Colombia.
+Lecturer, Eva, Novak, 27, F, Wenceslas Square, 3, Prague, Czech Republic.
+Prof. Dr., Ali, Veli, 50, M, Besiktas, 7, Istanbul, Turkey.
+Assist. Prof. Dr., Rachel, Green, 32, F, Bedford Street, 90, New York, USA.
+Research Assist., Mateo, Romano, 23, M, Via Toledo, 41, Naples, Italy.
+Prof. Dr., Fatima, Diallo, 49, F, Almadies, 5, Dakar, Senegal.
+Assistant. Prof., Klaus, Tomy, 21, M, Blume Street, 98, Potsdam, Germany.
+Assist. Prof. Dr., Amina, Yilmaz, 28, F, Istiklal Avenue, 45, Istanbul, Turkey.

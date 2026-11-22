@@ -11,5 +11,6 @@ The note below already have summary of module 01. Only generate notes and defini
 [[CCIP501 - Cyber Security Basics/Class 1]]
 [[Cybersecurity Course Big-Picture Study Notes (Modules 1–3)]]
 
-
+![[Pasted image 20261117114651.png]]
+exam question
 At the end of each chapter, there are 20 questions. WOrk out the answers, select improtant questions. Bases for the written exam

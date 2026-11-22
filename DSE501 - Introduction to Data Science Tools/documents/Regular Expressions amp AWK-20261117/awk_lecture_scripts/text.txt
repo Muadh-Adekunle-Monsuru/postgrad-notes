@@ -1,0 +1,9 @@
+Unix is a powerful multi-user, multi-tasking operating system.
+The Unix philosophy emphasizes building small, modular programs.
+Each program should do one thing well, and do it efficiently.
+Text streams connect these tools together in flexible pipelines.
+
+AWK is a domain-specific language designed for text processing.
+With AWK, you can search patterns, extract columns, and format reports.
+Regular expressions provide the engine to match complex text structures.
+Piping AWK into sed, grep, or sort creates fast data processing workflows.

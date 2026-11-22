@@ -1,0 +1,9 @@
+TransactionID,Category,Amount,Region
+TX1001,Hardware,750,EMEA
+TX1002,Software,320,NA
+TX1003,CloudServices,1250,EMEA
+TX1004,Peripherals,180,APAC
+TX1005,Networking,920,NA
+TX1006,Support,450,EMEA
+TX1007,Security,1600,APAC
+TX1008,Hardware,210,NA

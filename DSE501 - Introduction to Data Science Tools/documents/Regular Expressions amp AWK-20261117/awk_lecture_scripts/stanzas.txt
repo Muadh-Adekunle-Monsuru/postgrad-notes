@@ -1,0 +1,20 @@
+
+Host: web-server-01
+IP: 192.168.1.10
+Role: Frontend Proxy
+Status: ACTIVE
+
+Host: db-primary-01
+IP: 10.0.0.15
+Role: PostgreSQL Primary
+Status: ACTIVE
+
+Host: cache-cluster-01
+IP: 10.0.0.88
+Role: Redis Cache
+Status: DEGRADED
+
+Host: analytics-worker-01
+IP: 172.16.4.22
+Role: Batch Processing
+Status: MAINTENANCE

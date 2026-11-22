@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "746b7dff7e5ae8c7",
+        "id": "13db4d2b02d79085",
         "type": "tabs",
         "children": [
           {
-            "id": "d44ddb04dd6a4ce1",
+            "id": "9d1595dc9f29a323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCIP504 - Operating Systems & System Programming/Class 4.md",
-                "mode": "preview",
+                "file": "DSE501 - Introduction to Data Science Tools/Struct.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 4"
+              "title": "Struct"
             }
           },
           {
-            "id": "8e013a0da06d6022",
+            "id": "0846a92939afb4f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCIP504 - Operating Systems & System Programming/chapter_4_threads_knowledge_check.md",
-                "mode": "preview",
+                "file": "DSE501 - Introduction to Data Science Tools/data_structures_code.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter_4_threads_knowledge_check"
+              "title": "data_structures_code"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "3d48dbfb7283463c",
@@ -205,44 +204,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8e013a0da06d6022",
+  "active": "0846a92939afb4f9",
   "lastOpenFiles": [
+    "DSE501 - Introduction to Data Science Tools/Untitled.md",
+    "DSE501 - Introduction to Data Science Tools/Struct.md",
+    "DSE501 - Introduction to Data Science Tools/Types of Copy.md",
+    "Home.md",
+    "DSE501 - Introduction to Data Science Tools/documents/Regular Expressions amp AWK-20261117/awk_lecture_scripts/raw_text.txt",
+    "DSE501 - Introduction to Data Science Tools/documents/Regular Expressions amp AWK-20261117/awk_lecture_scripts/my_wc.awk",
+    "DSE501 - Introduction to Data Science Tools/documents/Regular Expressions amp AWK-20261117/~$Mastering AWK and NAWK_ Unix Text Processing Masterclass.pptx",
+    "SGS501 - Research Methods/documents/research-table.pdf",
+    "SGS501 - Research Methods/Class 5.md",
+    "SGS501 - Research Methods/images/Pasted image 20261118162922.png",
+    "SGS501 - Research Methods/images",
+    "Turkish Language Course/Turkish Language.md",
+    "CCIP503 - Computer Networks & Security/tcp_concepts_practice_questions.md",
+    "CCIP503 - Computer Networks & Security/Class 6.md",
+    "CCIP503 - Computer Networks & Security/Unconfirmed 132529.crdownload",
+    "CCIP503 - Computer Networks & Security/Class 5.md",
+    "CCIP503 - Computer Networks & Security/Unconfirmed 404109.crdownload",
+    "CCIP503 - Computer Networks & Security/documents/W07-Transport Layer.pdf",
+    "CCIP503 - Computer Networks & Security/documents/Unconfirmed 404616.crdownload",
+    "DSE501 - Introduction to Data Science Tools/documents/Regular Expressions amp AWK-20261117/awk_lecture_scripts/hwk_data.txt",
+    "CCIP501 - Cyber Security Basics/CCIP501 - Cyber Security Basics.md",
+    "CCIP501 - Cyber Security Basics/images/Pasted image 20261117114651.png",
+    "CCIP504 - Operating Systems & System Programming/chapter_4_threads_knowledge_check.md",
     "CCIP504 - Operating Systems & System Programming/Class 4.md",
     "CCIP504 - Operating Systems & System Programming/os_chapters_1_2_q_a.md",
-    "CCIP504 - Operating Systems & System Programming/chapter_4_threads_knowledge_check.md",
     "CCIP504 - Operating Systems & System Programming/Untitled.md",
-    "CCIP504 - Operating Systems & System Programming/Unconfirmed 521650.crdownload",
     "CCIP504 - Operating Systems & System Programming/OS_Chapter_1_Study_Notes.md",
     "CCIP504 - Operating Systems & System Programming/Class 2.md",
     "CCIP504 - Operating Systems & System Programming/chapter_3_exam_questions_answers.md",
-    "CCIP504 - Operating Systems & System Programming/documents/ch4.pdf",
     "CCIP504 - Operating Systems & System Programming/Class 3.md",
-    "Home.md",
     "SGS501 - Research Methods/time_series_regression_analysis_summary.md",
     "SGS501 - Research Methods/SGS501 - Research Methods and Scientific Ethics.md",
-    "SGS501 - Research Methods/Class 5.md",
     "DSE501 - Introduction to Data Science Tools/data structures.md",
-    "SGS501 - Research Methods/documents/Ranjit_Kumar-Research_Methodology_A_Step-by-Step_G.pdf",
-    "SGS501 - Research Methods/documents/SGS_Research_Methods_Time Series.pdf",
-    "SGS501 - Research Methods/documents/research_proposal_template_2026.pdf",
-    "SGS501 - Research Methods/documents/research-Basics-1-2.pdf",
-    "SGS501 - Research Methods/documents/research-table.pdf",
-    "SGS501 - Research Methods/documents/SGS501-601_hw1_2026-1.pdf",
-    "DSE501 - Introduction to Data Science Tools/documents/DSE501_Fall2026_Hwk1c_ByLinkedLists.pdf",
     "DSE501 - Introduction to Data Science Tools/data structures implementation.md",
-    "DSE501 - Introduction to Data Science Tools/code/Muadh_Monsur_DSE501_Hwk3_Library.h",
     "DSE501 - Introduction to Data Science Tools/data_structures_code.md",
-    "CCIP503 - Computer Networks & Security/Class 5.md",
     "DSE501 - Introduction to Data Science Tools/Class 3.md",
-    "DSE501 - Introduction to Data Science Tools/Struct.md",
     "DSE501 - Introduction to Data Science Tools/Functions.md",
     "DSE501 - Introduction to Data Science Tools/Files.md",
-    "DSE501 - Introduction to Data Science Tools/HW1 Practice.md",
-    "DSE501 - Introduction to Data Science Tools/DSE501 - Introduction to Data Science Tools.md",
-    "DSE501 - Introduction to Data Science Tools/Types of Copy.md",
-    "DSE501 - Introduction to Data Science Tools/Arrays.md",
-    "DSE501 - Introduction to Data Science Tools/documents/Practice.md",
-    "Turkish Language Course/Turkish Language.md",
     "CCIP504 - Operating Systems & System Programming/images/Pasted image 20261111170011.png",
     "Untitled.canvas",
     "CCIP504 - Operating Systems & System Programming/images/Pasted image 20261009110847.png",

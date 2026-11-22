@@ -1,0 +1,56 @@
+The `wc` (word count) command in Unix/Linux reads standard input or a list of files and outputs newline, word, and byte/character counts.
+
+### Standard Output Format
+
+When run on a single file:
+
+```bash
+$ wc example.txt
+  12  145  892 example.txt
+
+```
+
+The output columns correspond to:
+
+1. **Lines:** `12` newline characters count
+2. **Words:** `145` space-delimited words
+3. **Bytes:** `892` total bytes
+4. **File Name:** `example.txt`
+
+---
+
+### Output Variations
+
+#### 1. Multiple Files
+
+When given multiple files, `wc` outputs counts for each file individually, followed by a **total** line at the bottom:
+
+```bash
+$ wc file1.txt file2.txt
+   10   50  320 file1.txt
+   25  120  780 file2.txt
+   35  170 1100 total
+
+```
+
+#### 2. Standard Input (Piped Input)
+
+When receiving input via a pipe or redirect (no filename provided), `wc` outputs only the counts:
+
+```bash
+$ echo "Hello world, welcome to Linux" | wc
+      1       5      30
+
+```
+
+#### 3. Flag Options
+
+You can isolate specific counts using flags:
+
+| Command          | Output Description             | Example Output |
+| ---------------- | ------------------------------ | -------------- |
+| `wc -l file.txt` | Print **line** count only      | `12 file.txt`  |
+| `wc -w file.txt` | Print **word** count only      | `145 file.txt` |
+| `wc -c file.txt` | Print **byte** count only      | `892 file.txt` |
+| `wc -m file.txt` | Print **character** count only | `885 file.txt` |
+| `wc -L file.txt` | Length of the **longest line** | `78 file.txt`  |
